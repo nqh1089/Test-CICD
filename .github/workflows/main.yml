@@ -38,12 +38,12 @@ jobs:
       #        git push -u origin master
 
       #2
-      #       .github/workflows/main.yml
+      #       git add .github/workflows/main.yml
 
       #3
 #        git add .github/workflows/main.yml
 #        git commit -m "feat: Add GitHub Actions CI workflow"
-#        git push origin master
+#        git push origi master
 
 #Push file thuong
 #     git add .
